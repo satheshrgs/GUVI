@@ -10,7 +10,7 @@ try:
         print("Positive Number")
     elif num < 0:
         print("Negative Number")
-    else:
+    elif num == 0:
         print("The Number is zero")
 except:
     print("Enter a valid Number")
