@@ -2,7 +2,6 @@
 Created on 07-May-2017
 
 @author: Sathesh Rgs
-
 '''
 print("Program to check whether a number is odd or even")
 try:
